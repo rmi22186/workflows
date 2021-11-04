@@ -25,7 +25,7 @@ module.exports = {
     [
       "@semantic-release/exec",
       {
-        prepareCmd: "sh bundle-and-commit.sh",
+        prepareCmd: "sh generate-bundle-and-commit.sh",
       },
     ],
     [
