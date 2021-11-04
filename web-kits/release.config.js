@@ -1,3 +1,4 @@
+// This is a semantic-release config file that is used by each javascript kit found at https://www.github.com/mparticle-integrations
 module.exports = {
   branches: ["master"],
   tagFormat: "v${version}",
